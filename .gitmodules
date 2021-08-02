@@ -1,6 +1,6 @@
 [submodule "todo-challenge-server"]
 	path = todo-challenge-server
-	url = https://github.com/Gabriel-Cz/todo-app-client.git
+	url = https://github.com/Gabriel-Cz/todo-app-server.git
 [submodule "todo-challenge-client"]
 	path = todo-challenge-client
 	url = https://github.com/Gabriel-Cz/todo-app-client.git
